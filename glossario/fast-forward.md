@@ -1,8 +1,8 @@
 ---
-title: termo
+title: fast-forward
 ---
 
-# termo
+# fast-forward
 
 (Duas a quatro linhas explicando o termo, com as suas palavras.
 Uma delas precisa trazer um exemplo concreto: um comando, ou uma
