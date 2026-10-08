@@ -1,9 +1,6 @@
 ---
-title: termo
+title: push recusado
 ---
-
-# termo
-
-(Duas a quatro linhas explicando o termo, com as suas palavras.
-Uma delas precisa trazer um exemplo concreto: um comando, ou uma
-situação em que o termo aparece.)
+# push recusado
+Acontece quando o Git não permite enviar um branch para o repositório remoto por falta de permissão.
+Por exemplo, `git push -u origin push-recusado` pode ser recusado quando não tenho permissão para escrever no repositório.
