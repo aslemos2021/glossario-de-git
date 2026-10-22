@@ -2,7 +2,7 @@
 title: Colaborador
 ---
 
-# termo
+# Colaborador
 
 Um colaborador é alguém que recebeu permissão direta do propietário
 de um repositório para ler, clonar, criar ramificações (branches) e 
