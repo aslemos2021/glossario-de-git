@@ -1,9 +1,7 @@
 ---
-title: termo
+title: Controle de Versão
 ---
 
-# termo
+# Controle de Versão
 
-(Duas a quatro linhas explicando o termo, com as suas palavras.
-Uma delas precisa trazer um exemplo concreto: um comando, ou uma
-situação em que o termo aparece.)
+O controle de versão é a prática e o uso de softwares para rastrear, registrar e gerenciar as alterações feitas em arquivos — principalmente no código-fonte de um projeto — ao longo do tempo. Registra o que foi alterado, quando foi alterado e quem fez a modificação e permite voltar a qualquer estado anterior do arquivo ou do projeto caso ocorra um erro.
